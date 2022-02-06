@@ -1,8 +1,8 @@
 # Git Practice
-#Link
+# Link
 https://www.science.org/doi/10.1126/science.aam9744
 
-#Thoughts
+# Thoughts
 I find the article compelling and interesting because it stresses the importance of the software aspect more than people 
 believe to be. It suggests that we have relied on hardware advancement to automatically boost our program so we traded 
 program time for development time. As Moore's Law stopped taking effect, we the programmers have to actually craft our 
