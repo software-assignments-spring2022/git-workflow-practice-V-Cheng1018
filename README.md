@@ -10,3 +10,7 @@ codes in ways that is optimal. Many of us do not optimize all the processors or 
 wriitng our codes so alot of performance is lost. I find it odd that this form of programming is not even taught at 
 schools as it seems to be the trend of future programming as sequential programming becomes more obsolete. 
 
+
+# Shashanka Sharma Comments
+I agree with the above statements and realize that a change must be made. Transistors and silicon advancements in chips allowed us to continue to evolve computational power for generations, but as is the case with technology, innovation must be employed to create more powerful tools. I believe in the concept of writing good quality and beautiful code as stated by our benevolent dictator for life, the creator of Python. Guido Van Rossum stated that the best code is written beautifully and written in a manner that is so simple that it cannot be refuted. Complexity isn't the key to innovation, beauty is. 
+
